@@ -6,9 +6,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🏎 I’m currently working on a Formula One Discord bot
-- 🎄 I'm taking part in the Advent of Code competition at the moment
-- 🌱 I’m currently learning at Coventry Uni
+- I’m currently working on a Daily Poll app for friends.
+- I'm taking part in the Advent of Code competition every year.
+- I’m currently learning at Coventry University as a MSci CompSci student.
+- In my free time, I create animations in Blender. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
