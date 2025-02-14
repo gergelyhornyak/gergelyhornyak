@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-My name is J. Gergely Hornyak, currently learning at Coventry University, as a MSci CompSci student.
+My name is J. Gergely Hornyak, currently learning at Coventry University, as a MSci CompSci student. I am an open-source enthusiast, therefore:
 
 - I’m involved in a Daily Poll app depeloped for friends,
 - Every year I attempt to complete the Advent of Code competition.
