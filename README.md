@@ -16,4 +16,4 @@ I’m Gergely Hornyak, a Computer Science MSc graduate from Coventry University.
 
 I believe in thinking outside the box, staying open-minded, and using creativity to turn small ideas into fun and meaningful projects. 
 
-My GitHub is a mix of experiments, personal projects, and open-source collabs — feel free to explore or connect with me on [https://www.linkedin.com/in/j-gergely-hornyak/](LinkedIn)!
+My GitHub is a mix of experiments, personal projects, and open-source collabs — feel free to explore or connect with me on (https://www.linkedin.com/in/j-gergely-hornyak/)[LinkedIn]!
